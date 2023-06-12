@@ -1,0 +1,110 @@
+div {
+    display: block;
+}
+body{
+    background-color: white;
+}
+.ear {
+    width: 240px;
+    height: 140px;
+    display: flex;
+    justify-content: space-evenly;
+    margin: auto;
+    margin-top: 15%;
+    position: relative;
+}
+.ear1 {
+    width: 80px;
+    height: 120px;
+    background-color: pink;
+    border: 2px solid black;
+    border-radius: 999px;
+    position: relative;
+}
+
+
+.face {
+    width: 230px;
+    height: 230px;
+    background-color: pink;
+    border: 2px solid black;
+    border-radius: 50%;
+    margin: auto;
+    margin-top: 20%;
+    margin-left: -28%;
+}
+.eyes {
+    width: 280px;
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: -10%;
+    margin-top: 18%;
+}
+.eye1 {
+    width: 55px;
+    height: 55px;
+    background-color: rgb(250, 248, 249);
+    border-radius: 50%;
+    position: relative;
+}
+.eye12 {
+    width: 25px;
+    height: 25px;
+    background-color: rgb(11, 11, 11);
+    border-radius: 50%;
+    margin-left: 26%;
+    margin-top: 33%;
+    position: absolute;
+}
+.eye2 {
+    width: 55px;
+    height: 55px;
+    background-color: rgb(250, 248, 249);
+    border-radius: 50%;
+    position: relative;
+}
+.eye21 {
+    width: 25px;
+    height: 25px;
+    background-color: rgb(11, 11, 11);
+    border-radius: 50%;
+    margin-left: 26%;
+    margin-top: 33%;
+    position: absolute;
+}
+
+.nose {
+    width: 100px;
+    height: 55px;
+    background-color: rgb(249, 16, 16);
+    border: 2px solid black;
+    border-radius: 999px;
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 14%;
+    margin-left: 27%;
+}
+.dot1 {
+    width: 25px;
+    height: 25px;
+    background-color: black;
+    border-radius: 50%;
+    margin-top: 12%;
+    margin-left: 0%;
+}
+.dot2 {
+    width: 25px;
+    height: 25px;
+    background-color: black;
+    border-radius: 50%;
+    margin-top: 12%;
+    margin-left: 25%;
+}
+.ear2 {
+    width: 80px;
+    height: 120px;
+    background-color: pink;
+    border: 2px solid black;
+    border-radius: 999px;
+
+}
